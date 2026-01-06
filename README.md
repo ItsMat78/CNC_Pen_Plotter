@@ -4,7 +4,8 @@ A custom-built **CNC Pen Plotter** designed for **NEMA17 stepper motors**, with 
 
 This project focuses on simplicity, modularity, and hackability—no proprietary nonsense, just clean mechanics and open tooling.
 
-**Warning** The files have problems with friction in sliding parts
+**Warning:** The files have problems with friction in sliding parts
+
 ---
 
 ## 🛠 Features
