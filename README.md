@@ -1,4 +1,5 @@
 # CNC Pen Plotter (NEMA17 · Fusion 360 · UGS)
+<img width="1156" height="1542" alt="image" src="https://github.com/user-attachments/assets/a3766ec6-50b2-4197-9584-66d594cedb4e" />
 
 A custom-built **CNC Pen Plotter** designed for **NEMA17 stepper motors**, with all mechanical parts modeled in **Fusion 360** and fabricated using 3D printing. The machine operates using standard **G-code** and is controlled via **Universal G-code Sender (UGS)**.
 
